@@ -1,0 +1,283 @@
+2026-02-26 12:38:37,214 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 12:38:37,215 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 12:38:37,216 - INFO -  * Restarting with stat
+2026-02-26 12:38:37,851 - WARNING -  * Debugger is active!
+2026-02-26 12:38:37,853 - INFO -  * Debugger PIN: 388-396-205
+2026-02-26 12:38:37,875 - INFO - 127.0.0.1 - - [26/Feb/2026 12:38:37] "GET / HTTP/1.1" 200 -
+2026-02-26 12:38:38,035 - INFO - 127.0.0.1 - - [26/Feb/2026 12:38:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-26 12:39:44,493 - INFO - Connected to MariaDB
+2026-02-26 12:39:45,275 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 12:39:45,278 - INFO - Processing editors
+2026-02-26 12:39:45,380 - INFO - editors imported successfully
+2026-02-26 12:39:45,381 - INFO - Processing categories
+2026-02-26 12:39:45,478 - INFO - categories imported successfully
+2026-02-26 12:39:45,479 - INFO - Processing subcategories
+2026-02-26 12:39:45,578 - INFO - subcategories imported successfully
+2026-02-26 12:39:45,579 - INFO - Processing topic_categories
+2026-02-26 12:39:45,672 - INFO - topic_categories imported successfully
+2026-02-26 12:39:45,672 - INFO - Processing courses
+2026-02-26 12:39:45,798 - INFO - courses imported successfully
+2026-02-26 12:39:45,799 - INFO - Processing modules
+2026-02-26 12:39:45,878 - INFO - modules imported successfully
+2026-02-26 12:39:45,878 - INFO - Processing lessons
+2026-02-26 12:39:46,026 - INFO - lessons imported successfully
+2026-02-26 12:39:46,027 - INFO - Processing assessments
+2026-02-26 12:39:46,133 - INFO - assessments imported successfully
+2026-02-26 12:39:46,134 - INFO - Processing module_contents
+2026-02-26 12:39:46,329 - INFO - module_contents imported successfully
+2026-02-26 12:39:46,330 - INFO - Processing questions
+2026-02-26 12:39:46,581 - INFO - questions imported successfully
+2026-02-26 12:39:46,582 - INFO - Processing question_links
+2026-02-26 12:39:46,717 - INFO - question_links imported successfully
+2026-02-26 12:39:46,719 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 12:39:46,722 - INFO - 127.0.0.1 - - [26/Feb/2026 12:39:46] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 12:39:46,736 - INFO - 127.0.0.1 - - [26/Feb/2026 12:39:46] "GET / HTTP/1.1" 200 -
+2026-02-26 12:42:36,017 - INFO - Connected to MariaDB
+2026-02-26 12:42:36,095 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 12:42:36,096 - INFO - Processing editors
+2026-02-26 12:42:36,189 - INFO - editors imported successfully
+2026-02-26 12:42:36,190 - INFO - Processing categories
+2026-02-26 12:42:36,275 - INFO - categories imported successfully
+2026-02-26 12:42:36,275 - INFO - Processing subcategories
+2026-02-26 12:42:36,361 - INFO - subcategories imported successfully
+2026-02-26 12:42:36,361 - INFO - Processing topic_categories
+2026-02-26 12:42:36,474 - INFO - topic_categories imported successfully
+2026-02-26 12:42:36,476 - INFO - Processing courses
+2026-02-26 12:42:36,566 - INFO - courses imported successfully
+2026-02-26 12:42:36,568 - INFO - Processing modules
+2026-02-26 12:42:36,682 - INFO - modules imported successfully
+2026-02-26 12:42:36,683 - INFO - Processing lessons
+2026-02-26 12:42:36,822 - INFO - lessons imported successfully
+2026-02-26 12:42:36,823 - INFO - Processing assessments
+2026-02-26 12:42:36,949 - INFO - assessments imported successfully
+2026-02-26 12:42:36,949 - INFO - Processing module_contents
+2026-02-26 12:42:37,178 - INFO - module_contents imported successfully
+2026-02-26 12:42:37,179 - INFO - Processing questions
+2026-02-26 12:42:37,418 - INFO - questions imported successfully
+2026-02-26 12:42:37,419 - INFO - Processing question_links
+2026-02-26 12:42:37,551 - INFO - question_links imported successfully
+2026-02-26 12:42:37,552 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 12:42:37,554 - INFO - 127.0.0.1 - - [26/Feb/2026 12:42:37] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 12:42:37,568 - INFO - 127.0.0.1 - - [26/Feb/2026 12:42:37] "GET / HTTP/1.1" 200 -
+2026-02-26 12:45:05,751 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-26 12:45:05,997 - INFO -  * Restarting with stat
+2026-02-26 12:45:06,635 - WARNING -  * Debugger is active!
+2026-02-26 12:45:06,637 - INFO -  * Debugger PIN: 388-396-205
+2026-02-26 12:45:11,964 - INFO - 127.0.0.1 - - [26/Feb/2026 12:45:11] "GET / HTTP/1.1" 200 -
+2026-02-26 12:45:21,090 - INFO - Connected to MariaDB
+2026-02-26 12:45:21,632 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 12:45:21,635 - INFO - Processing editors
+2026-02-26 12:45:21,727 - INFO - editors imported successfully
+2026-02-26 12:45:21,727 - INFO - Processing categories
+2026-02-26 12:45:21,813 - INFO - categories imported successfully
+2026-02-26 12:45:21,814 - INFO - Processing subcategories
+2026-02-26 12:45:21,909 - INFO - subcategories imported successfully
+2026-02-26 12:45:21,910 - INFO - Processing topic_categories
+2026-02-26 12:45:22,003 - INFO - topic_categories imported successfully
+2026-02-26 12:45:22,007 - INFO - Processing courses
+2026-02-26 12:45:22,125 - INFO - 127.0.0.1 - - [26/Feb/2026 12:45:22] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 12:45:22,136 - INFO - 127.0.0.1 - - [26/Feb/2026 12:45:22] "GET / HTTP/1.1" 200 -
+2026-02-26 12:50:48,022 - INFO - 127.0.0.1 - - [26/Feb/2026 12:50:48] "GET / HTTP/1.1" 200 -
+2026-02-26 12:51:15,811 - INFO - Connected to MariaDB
+2026-02-26 12:51:15,890 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 12:51:15,891 - INFO - Processing editors
+2026-02-26 12:51:15,993 - INFO - editors imported successfully
+2026-02-26 12:51:15,994 - INFO - Processing categories
+2026-02-26 12:51:16,073 - INFO - categories imported successfully
+2026-02-26 12:51:16,073 - INFO - Processing subcategories
+2026-02-26 12:51:16,160 - INFO - subcategories imported successfully
+2026-02-26 12:51:16,161 - INFO - Processing topic_categories
+2026-02-26 12:51:16,243 - INFO - topic_categories imported successfully
+2026-02-26 12:51:16,243 - INFO - Processing courses
+2026-02-26 12:51:16,345 - INFO - courses imported successfully
+2026-02-26 12:51:16,346 - INFO - Processing modules
+2026-02-26 12:51:16,453 - INFO - modules imported successfully
+2026-02-26 12:51:16,454 - INFO - Processing lessons
+2026-02-26 12:51:16,578 - INFO - lessons imported successfully
+2026-02-26 12:51:16,578 - INFO - Processing assessments
+2026-02-26 12:51:16,688 - INFO - assessments imported successfully
+2026-02-26 12:51:16,689 - INFO - Processing module_contents
+2026-02-26 12:51:16,882 - INFO - module_contents imported successfully
+2026-02-26 12:51:16,884 - INFO - Processing questions
+2026-02-26 12:51:17,135 - INFO - questions imported successfully
+2026-02-26 12:51:17,136 - INFO - Processing question_links
+2026-02-26 12:51:17,267 - INFO - question_links imported successfully
+2026-02-26 12:51:17,268 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 12:51:17,270 - INFO - 127.0.0.1 - - [26/Feb/2026 12:51:17] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 12:51:17,280 - INFO - 127.0.0.1 - - [26/Feb/2026 12:51:17] "GET / HTTP/1.1" 200 -
+2026-02-26 12:59:15,916 - INFO - 127.0.0.1 - - [26/Feb/2026 12:59:15] "GET / HTTP/1.1" 200 -
+2026-02-26 13:00:36,722 - INFO - Connected to MariaDB
+2026-02-26 13:00:36,825 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 13:00:36,826 - INFO - Processing editors
+2026-02-26 13:00:36,920 - INFO - editors imported successfully
+2026-02-26 13:00:36,920 - INFO - Processing categories
+2026-02-26 13:00:37,014 - INFO - categories imported successfully
+2026-02-26 13:00:37,015 - INFO - Processing subcategories
+2026-02-26 13:00:37,172 - INFO - subcategories imported successfully
+2026-02-26 13:00:37,173 - INFO - Processing topic_categories
+2026-02-26 13:00:37,285 - INFO - topic_categories imported successfully
+2026-02-26 13:00:37,286 - INFO - Processing courses
+2026-02-26 13:00:37,402 - INFO - courses imported successfully
+2026-02-26 13:00:37,403 - INFO - Processing modules
+2026-02-26 13:00:37,519 - INFO - modules imported successfully
+2026-02-26 13:00:37,520 - INFO - Processing lessons
+2026-02-26 13:00:37,670 - INFO - lessons imported successfully
+2026-02-26 13:00:37,672 - INFO - Processing assessments
+2026-02-26 13:00:37,800 - INFO - assessments imported successfully
+2026-02-26 13:00:37,801 - INFO - Processing module_contents
+2026-02-26 13:00:37,987 - INFO - module_contents imported successfully
+2026-02-26 13:00:37,987 - INFO - Processing questions
+2026-02-26 13:00:38,240 - INFO - questions imported successfully
+2026-02-26 13:00:38,241 - INFO - Processing question_links
+2026-02-26 13:00:38,392 - INFO - question_links imported successfully
+2026-02-26 13:00:38,393 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 13:00:38,395 - INFO - 127.0.0.1 - - [26/Feb/2026 13:00:38] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 13:00:38,406 - INFO - 127.0.0.1 - - [26/Feb/2026 13:00:38] "GET / HTTP/1.1" 200 -
+2026-02-26 13:01:49,819 - INFO - 127.0.0.1 - - [26/Feb/2026 13:01:49] "GET / HTTP/1.1" 200 -
+2026-02-26 13:01:56,447 - INFO - Connected to MariaDB
+2026-02-26 13:01:56,528 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 13:01:56,529 - INFO - Processing editors
+2026-02-26 13:01:56,631 - INFO - editors imported successfully
+2026-02-26 13:01:56,631 - INFO - Processing categories
+2026-02-26 13:01:56,758 - INFO - categories imported successfully
+2026-02-26 13:01:56,758 - INFO - Processing subcategories
+2026-02-26 13:01:56,846 - INFO - subcategories imported successfully
+2026-02-26 13:01:56,847 - INFO - Processing topic_categories
+2026-02-26 13:01:56,946 - INFO - topic_categories imported successfully
+2026-02-26 13:01:56,947 - INFO - Processing courses
+2026-02-26 13:01:57,055 - INFO - courses imported successfully
+2026-02-26 13:01:57,055 - INFO - Processing modules
+2026-02-26 13:01:57,156 - INFO - modules imported successfully
+2026-02-26 13:01:57,156 - INFO - Processing lessons
+2026-02-26 13:01:57,314 - INFO - lessons imported successfully
+2026-02-26 13:01:57,315 - INFO - Processing assessments
+2026-02-26 13:01:57,482 - INFO - assessments imported successfully
+2026-02-26 13:01:57,483 - INFO - Processing module_contents
+2026-02-26 13:01:57,677 - INFO - module_contents imported successfully
+2026-02-26 13:01:57,678 - INFO - Processing questions
+2026-02-26 13:01:57,911 - INFO - questions imported successfully
+2026-02-26 13:01:57,912 - INFO - Processing question_links
+2026-02-26 13:01:58,085 - INFO - question_links imported successfully
+2026-02-26 13:01:58,086 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 13:01:58,088 - INFO - 127.0.0.1 - - [26/Feb/2026 13:01:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 13:01:58,099 - INFO - 127.0.0.1 - - [26/Feb/2026 13:01:58] "GET / HTTP/1.1" 200 -
+2026-02-26 14:54:17,367 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:54:17,367 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:54:17,371 - INFO -  * Restarting with stat
+2026-02-26 14:54:17,855 - WARNING -  * Debugger is active!
+2026-02-26 14:54:17,857 - INFO -  * Debugger PIN: 388-396-205
+2026-02-26 14:54:38,944 - INFO - 127.0.0.1 - - [26/Feb/2026 14:54:38] "GET / HTTP/1.1" 200 -
+2026-02-26 14:54:39,000 - INFO - 127.0.0.1 - - [26/Feb/2026 14:54:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-26 14:59:13,917 - INFO - 127.0.0.1 - - [26/Feb/2026 14:59:13] "GET / HTTP/1.1" 200 -
+2026-02-26 15:07:01,497 - INFO - Connected to MariaDB
+2026-02-26 15:07:01,992 - INFO - Sheets found: ['editors', 'categories', 'subcategories', 'topic_categories', 'courses', 'modules', 'module_contents', 'lessons', 'assessments', 'questions', 'question_links']
+2026-02-26 15:07:01,993 - INFO - Processing editors
+2026-02-26 15:07:02,049 - INFO - editors imported successfully
+2026-02-26 15:07:02,050 - INFO - Processing categories
+2026-02-26 15:07:02,112 - INFO - categories imported successfully
+2026-02-26 15:07:02,113 - INFO - Processing subcategories
+2026-02-26 15:07:02,184 - INFO - subcategories imported successfully
+2026-02-26 15:07:02,185 - INFO - Processing topic_categories
+2026-02-26 15:07:02,252 - INFO - topic_categories imported successfully
+2026-02-26 15:07:02,252 - INFO - Processing courses
+2026-02-26 15:07:02,347 - INFO - courses imported successfully
+2026-02-26 15:07:02,348 - INFO - Processing modules
+2026-02-26 15:07:02,426 - INFO - modules imported successfully
+2026-02-26 15:07:02,426 - INFO - Processing lessons
+2026-02-26 15:07:02,518 - INFO - lessons imported successfully
+2026-02-26 15:07:02,518 - INFO - Processing assessments
+2026-02-26 15:07:02,587 - INFO - assessments imported successfully
+2026-02-26 15:07:02,588 - INFO - Processing module_contents
+2026-02-26 15:07:02,709 - INFO - module_contents imported successfully
+2026-02-26 15:07:02,709 - INFO - Processing questions
+2026-02-26 15:07:02,877 - INFO - questions imported successfully
+2026-02-26 15:07:02,877 - INFO - Processing question_links
+2026-02-26 15:07:02,956 - INFO - question_links imported successfully
+2026-02-26 15:07:02,958 - INFO - IMPORT COMPLETED SUCCESSFULLY
+2026-02-26 15:07:02,959 - INFO - 127.0.0.1 - - [26/Feb/2026 15:07:02] "[32mPOST / HTTP/1.1[0m" 302 -
+2026-02-26 15:07:02,966 - INFO - 127.0.0.1 - - [26/Feb/2026 15:07:02] "GET / HTTP/1.1" 200 -
+2026-02-26 15:16:48,996 - INFO - 127.0.0.1 - - [26/Feb/2026 15:16:48] "GET / HTTP/1.1" 200 -
+2026-02-26 15:26:05,616 - INFO - 127.0.0.1 - - [26/Feb/2026 15:26:05] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-02-26 15:31:40,752 - INFO - 127.0.0.1 - - [26/Feb/2026 15:31:40] "GET / HTTP/1.1" 200 -
+2026-02-27 09:33:20,760 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-27 09:33:20,762 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-27 09:33:20,764 - INFO -  * Restarting with stat
+2026-02-27 09:33:21,401 - WARNING -  * Debugger is active!
+2026-02-27 09:33:21,407 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:33:27,847 - INFO - 127.0.0.1 - - [27/Feb/2026 09:33:27] "GET / HTTP/1.1" 200 -
+2026-02-27 09:35:27,929 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:28,230 - INFO -  * Restarting with stat
+2026-02-27 09:35:28,961 - WARNING -  * Debugger is active!
+2026-02-27 09:35:28,963 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:35:36,999 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:37,172 - INFO -  * Restarting with stat
+2026-02-27 09:35:37,988 - WARNING -  * Debugger is active!
+2026-02-27 09:35:37,991 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:35:42,021 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:42,262 - INFO -  * Restarting with stat
+2026-02-27 09:35:42,906 - WARNING -  * Debugger is active!
+2026-02-27 09:35:42,908 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:35:45,927 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:46,161 - INFO -  * Restarting with stat
+2026-02-27 09:35:46,828 - WARNING -  * Debugger is active!
+2026-02-27 09:35:46,830 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:35:51,856 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:52,046 - INFO -  * Restarting with stat
+2026-02-27 09:35:52,637 - WARNING -  * Debugger is active!
+2026-02-27 09:35:52,639 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:35:58,672 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:35:58,874 - INFO -  * Restarting with stat
+2026-02-27 09:35:59,513 - WARNING -  * Debugger is active!
+2026-02-27 09:35:59,515 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:00,527 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:00,766 - INFO -  * Restarting with stat
+2026-02-27 09:36:01,570 - WARNING -  * Debugger is active!
+2026-02-27 09:36:01,572 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:03,588 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:03,789 - INFO -  * Restarting with stat
+2026-02-27 09:36:04,455 - WARNING -  * Debugger is active!
+2026-02-27 09:36:04,457 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:07,477 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:07,709 - INFO -  * Restarting with stat
+2026-02-27 09:36:08,335 - WARNING -  * Debugger is active!
+2026-02-27 09:36:08,337 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:10,354 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:10,590 - INFO -  * Restarting with stat
+2026-02-27 09:36:11,227 - WARNING -  * Debugger is active!
+2026-02-27 09:36:11,229 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:15,251 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:15,460 - INFO -  * Restarting with stat
+2026-02-27 09:36:16,134 - WARNING -  * Debugger is active!
+2026-02-27 09:36:16,139 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:28,200 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:28,405 - INFO -  * Restarting with stat
+2026-02-27 09:36:29,101 - WARNING -  * Debugger is active!
+2026-02-27 09:36:29,103 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:34,130 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:34,346 - INFO -  * Restarting with stat
+2026-02-27 09:36:34,966 - WARNING -  * Debugger is active!
+2026-02-27 09:36:34,969 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:35,980 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:36,172 - INFO -  * Restarting with stat
+2026-02-27 09:36:36,814 - WARNING -  * Debugger is active!
+2026-02-27 09:36:36,817 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:37,830 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:38,039 - INFO -  * Restarting with stat
+2026-02-27 09:36:38,706 - WARNING -  * Debugger is active!
+2026-02-27 09:36:38,709 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:40,729 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:40,958 - INFO -  * Restarting with stat
+2026-02-27 09:36:41,535 - WARNING -  * Debugger is active!
+2026-02-27 09:36:41,537 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:44,560 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:44,792 - INFO -  * Restarting with stat
+2026-02-27 09:36:45,513 - WARNING -  * Debugger is active!
+2026-02-27 09:36:45,516 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:36:49,537 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
+2026-02-27 09:36:49,741 - INFO -  * Restarting with stat
+2026-02-27 09:36:50,410 - WARNING -  * Debugger is active!
+2026-02-27 09:36:50,412 - INFO -  * Debugger PIN: 388-396-205
+2026-02-27 09:38:06,718 - INFO -  * Detected change in 'D:\\filetodb\\import_utils.py', reloading
